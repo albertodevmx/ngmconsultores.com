@@ -37,7 +37,7 @@
 
 
 
-      <div class="caja no-padding tablet-60 web-70 encabezado__redessociales">
+      <div class="caja no-padding tablet-60 web-70 encabezado__redessociales d-md-none">
         <a href="#" class="icon icon-facebook-official"></a>
         <!-- <a href="#" class="icon icon-twitter"></a> -->
         <a href="#" class="icon icon-bars" id="toggle-menu2">

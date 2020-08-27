@@ -54,18 +54,26 @@
 
 			<div class="grupo no-padding direcciones">
 				<div class="caja tablet-100 web-50 no-padding direcciones__bloque">
-						<p>
+						<!-- <p>
 							NAYGM CIUDAD DE MÉXICO: <br>
 							Bosques de Radiatas 44 – 401. <br>
 							Col. Bosques de las Lomas. <br>
 							CP. 05120 Ciudad de México <br>
 							Teléfono 01-800-28-69-287
-						</p>	
+						</p> -->
+
+						<p>
+							NGM CIUDAD DE MÉXICO: <br>
+							Bosques de Radiatas 44 – 401. <br>
+							Col. Bosques de las Lomas. <br>
+							CP. 05120 Ciudad de México <br>
+							Teléfono 01-800-28-69-287
+						</p>
 				</div>
 
 
 				<div class="caja tablet-100 web-50 no-padding direcciones__bloque">
-						<p>
+						<!-- <p>
 							NAYGM SAN LUIS POTOSÍ: <br>
 							Ave. Cuauhtémoc 706 – B. <br>
 							Col. Tequisquiapan. <br>
@@ -76,7 +84,7 @@
 							T. 01 (444) 962-06-50<br>
 							T. 01 (444) 962-06-51<br>
 							T. 01 (444) 151-63-06
-						</p>
+						</p> -->
 				</div>
 			</div>
 

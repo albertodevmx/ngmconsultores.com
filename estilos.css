@@ -2315,7 +2315,7 @@ h6 {
 }
 
 .encabezado__redessociales .icon-bars {
-  display: none;
+  display: initial;
 }
 
 @media screen and (min-width: 768px) {
